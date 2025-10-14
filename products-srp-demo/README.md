@@ -1,5 +1,9 @@
 # Cadastro e Listagem de Produtos (PHP puro + SRP)
 
+## Integrantes:
+- Alani Rodrigues - 1986006
+- Marcelo Amorim - 1997218
+
 ## Como executar
 1. Coloque o projeto em `C:\xampp\htdocs\products-srp-demo`
 2. Inicie o Apache no XAMPP.
@@ -81,3 +85,4 @@ Acessar `products.php`.
 - O projeto segue PSR-4, PSR-12 e SRP.  
 - Nenhum framework foi usado.  
 - Dados persistem em `storage/products.txt`, um JSON por linha.
+
