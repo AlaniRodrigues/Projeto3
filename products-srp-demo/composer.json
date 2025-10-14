@@ -1,0 +1,17 @@
+{
+    "name": "alani/cd_solid_srp_demo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alani.rodrigues",
+            "email": "alani.rodrigues@gmail.com"
+        }
+    ],
+    "require": {}
+}
